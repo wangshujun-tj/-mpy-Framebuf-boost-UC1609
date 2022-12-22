@@ -1,4 +1,4 @@
-# MicroPython ST7567 LCD driver, SPI interfaces
+# MicroPython UC1609 LCD driver, IIC/SPI interfaces
 
 from micropython import const
 import framebuf
